@@ -1,3 +1,6 @@
+#include <iostream>
+
+using namespace std;
 
 int Binary(int a[]){
    int Min =0, Max= 5,mid;
